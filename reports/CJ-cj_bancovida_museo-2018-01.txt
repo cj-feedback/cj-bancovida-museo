@@ -1,0 +1,69 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 489
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 32
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-24 ; Times: 11
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-06 ; Times: 12
+	Date: 2018-01-21 ; Times: 10
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 7
+	Date: 2018-01-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "cruziohyla calcarifer" ; Times: 11
+	Query: "Pristimantis calcarulatus hassex:1" ; Times: 2
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Allobates zaparo" ; Times: 3
+	Query: "Gastrotheca lateonota" ; Times: 1
+	Query: "Dendrobates sylvaticus hassex:1" ; Times: 2
+	Query: "Cruziohyla calcarifer" ; Times: 3
+	Query: "Hyloxalus elachyhistus hassex:1" ; Times: 2
+	Query: "Hylomantis hulli" ; Times: 2
+	Query: "Atelopus elegans" ; Times: 3
+	Query: "Epipedobates anthonyi hassex:1" ; Times: 2
+	Query: "darwinwallacei" ; Times: 1
+	Query: "Rulyrana flavopunctata" ; Times: 8
+	Query: "Dendropsophus miyatai" ; Times: 2
+	Query: "Dendrobates captivus" ; Times: 2
+	Query: "Pristimantis galdi hassex:1" ; Times: 2
+	Query: "Pristimantis colomai" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1398 download events in this period)
+Total number of records downloaded: 369
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atelopus spumarius" ; Times: 2
+	Query: "darwinwallacei" ; Times: 1
+	Query: "Atelopus spumarius" ; Times: 2
+	Query: "Toachi Ecuador" ; Times: 1
+
+
+End of report.
