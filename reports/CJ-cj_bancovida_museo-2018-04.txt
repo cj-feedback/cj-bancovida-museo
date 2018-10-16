@@ -1,0 +1,61 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Atelopus nanay " ; Times: 1
+	Query: "genus:Gastrotheca specificepithet:litonedis" ; Times: 1
+	Query: "scientificname:Atelopus nanay " ; Times: 1
+	Query: "ND 7517" ; Times: 1
+	Query: "scientificname:Atelopus elegans " ; Times: 1
+	Query: "country:Ecuador scientificname:Oreobates quixensis " ; Times: 1
+	Query: "genus:Osteocephalus specificepithet:cannatellai" ; Times: 1
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+	Query: "atelopus nanay" ; Times: 1
+	Query: "scientificname:Scinax quinquefasciatus " ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1359 download events in this period)
+Total number of records downloaded: 386
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 2
+	Query: "Rhinella marina" ; Times: 2
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+
+
+End of report.
