@@ -1,0 +1,77 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 598
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Belgium ; Times: 3
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-26 ; Times: 40
+	Date: 2018-03-27 ; Times: 16
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 4
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet=nanay " ; Times: 15
+	Query: "Ceratophrys stolzmanni" ; Times: 1
+	Query: "specificepithet:nanay " ; Times: 7
+	Query: "vntype:specimen order:Anura institutioncode:CJ" ; Times: 1
+	Query: "genus:Colostethus specificepithet:fugax" ; Times: 5
+	Query: "genus:Oreobates specificepithet:quixensis" ; Times: 5
+	Query: "genus:Sachatamia specificepithet:albomaculata" ; Times: 6
+	Query: "class:Amphibia catalognumber:1200" ; Times: 1
+	Query: "specificepithet:festae " ; Times: 1
+	Query: "genus:Centrolene specificepithet:buckleyi" ; Times: 5
+	Query: "genus:Nymphargus specificepithet:griffithsi" ; Times: 6
+	Query: "genus:Allobates specificepithet:kingsburyi" ; Times: 5
+	Query: "ceratophrys stolzmanni" ; Times: 4
+	Query: "genus:Barycholos specificepithet:pulcher" ; Times: 2
+	Query: "country=Ecuador specificepithet=nanay " ; Times: 11
+	Query: "specificepithet:nanay" ; Times: 3
+	Query: "scientificname=pristimantis altamazonicus " ; Times: 1
+	Query: "specificepithet:nanay}" ; Times: 1
+	Query: "scientificname:pristimantis altamazonicus " ; Times: 2
+	Query: "country=Ecuador specificepithet=nanay hasmedia=0" ; Times: 1
+	Query: "country=ecuador specificepithet=nanay " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1284 download events in this period)
+Total number of records downloaded: 275
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Mena" ; Times: 1
+	Query: "Cosanga" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "specificepithet:quinquefasciatus genus:Scinax" ; Times: 1
+
+
+End of report.
