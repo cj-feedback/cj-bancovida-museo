@@ -1,0 +1,89 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 88
+Number of records retrieved in searches: 1023
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 77
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-16 ; Times: 15
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-19 ; Times: 1
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 34
+	Date: 2018-05-24 ; Times: 15
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:prosoblepon genus:Espadarana institutioncode:CJ" ; Times: 3
+	Query: "country:Ecuador scientificname:Pristimantis vertebralis " ; Times: 1
+	Query: "specificepithet:aureoguttatum genus:Hyalinobatrachium institutioncode:CJ" ; Times: 3
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:CJ" ; Times: 3
+	Query: "genus:Caecilia specificepithet:tentaculata" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella institutioncode:CJ" ; Times: 3
+	Query: "specificepithet:pseustes genus:Gastrotheca institutioncode:CJ" ; Times: 3
+	Query: "scientificname:Pristimantis lanthanites " ; Times: 1
+	Query: "locality:Lita " ; Times: 1
+	Query: "Dendrobates captivus" ; Times: 3
+	Query: "Hyloxalus awa" ; Times: 4
+	Query: "genus:Sachatamia specificepithet:ilex" ; Times: 1
+	Query: "specificepithet:pulcher genus:Barycholos institutioncode:CJ" ; Times: 3
+	Query: "specificepithet:parviceps genus:Dendropsophus institutioncode:CJ" ; Times: 3
+	Query: "Epipedobates anthonyi" ; Times: 1
+	Query: "Caecilia tentaculata" ; Times: 2
+	Query: "Rulyrana flavopunctata" ; Times: 3
+	Query: "Gastrotheca litonedis" ; Times: 1
+	Query: "specificepithet:glaberrimus genus:Rhaebo institutioncode:CJ" ; Times: 3
+	Query: "Hyloxalus toachi" ; Times: 8
+	Query: "Epipedobates boulengeri" ; Times: 1
+	Query: "specificepithet:ilex genus:Sachatamia institutioncode:CJ" ; Times: 3
+	Query: "Epipedobates darwinwallacei" ; Times: 1
+	Query: "specificepithet:flavopunctata genus:Rulyrana institutioncode:CJ" ; Times: 3
+	Query: "Hyloxalus jacobuspetersi" ; Times: 2
+	Query: "country:Ecuador scientificname:Hyloxalus toachi " ; Times: 1
+	Query: "Colostethus fugax" ; Times: 7
+	Query: "specificepithet:tricolor genus:Epipedobates institutioncode:CJ" ; Times: 3
+	Query: "specificepithet:ruber genus:Scinax institutioncode:CJ" ; Times: 3
+	Query: "country:Ecuador scientificname:Hyloscirtus alytolylax " ; Times: 1
+	Query: "Hyloscirtus mashpi" ; Times: 1
+	Query: "Hyloxalus nexipus" ; Times: 2
+	Query: "specificepithet:calcarifer genus:Cruziohyla institutioncode:CJ" ; Times: 3
+	Query: "country:Ecuador scientificname:Craugastor longirostris " ; Times: 1
+	Query: "specificepithet:grandisonae genus:Nymphargus institutioncode:CJ" ; Times: 3
+	Query: "genus:Epipedobates specificepithet:anthonyi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1178 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Atelopus longirostris" ; Times: 1
+	Query: "Bolitoglossa peruviana" ; Times: 1
+
+
+End of report.
