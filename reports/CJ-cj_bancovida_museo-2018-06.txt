@@ -1,0 +1,83 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 7592
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 68
+	Country: United States ; Times: 17
+	Country: Peru ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-11 ; Times: 44
+	Date: 2018-06-04 ; Times: 10
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-02 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 21
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "jambatu" ; Times: 47
+	Query: "Pristimantis mindo" ; Times: 3
+	Query: "Hyloxalus awa" ; Times: 1
+	Query: "Epipedobates boulengeri" ; Times: 1
+	Query: "Allobates zaparo" ; Times: 1
+	Query: "Epipedobates darwinwallacei" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 3
+	Query: "genus:Atelopus specificepithet:palmatus" ; Times: 1
+	Query: "Hyloxalus jacobuspetersi" ; Times: 1
+	Query: "Dendrobates captivus" ; Times: 1
+	Query: "Epipedobates anthonyi" ; Times: 1
+	Query: "Gastrotheca lojana" ; Times: 2
+	Query: "country:Ecuador scientificname:Dendropsophus bokermanni " ; Times: 1
+	Query: "anfibios Ecuador" ; Times: 20
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "Gastrotheca litonedis" ; Times: 1
+	Query: "genus:Epipedobates year&gt;=2005 " ; Times: 1
+	Query: "anfibios ecuador" ; Times: 1
+	Query: "Hyloxalus nexipus" ; Times: 1
+	Query: "country:Ecuador scientificname:Hyloscirtus alytolylax " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1169 download events in this period)
+Total number of records downloaded: 17090
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "jambatu" ; Times: 3
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Espadarana" ; Times: 1
+	Query: "Nymphargus" ; Times: 1
+	Query: "Centrolene" ; Times: 2
+	Query: "anfibios Ecuador" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:calcaratus" ; Times: 1
+	Query: "Cochranella" ; Times: 2
+
+
+End of report.
