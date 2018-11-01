@@ -1,0 +1,74 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 134
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Ecuador ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-23 ; Times: 9
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-28 ; Times: 4
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pristimantis croceoinguinis" ; Times: 4
+	Query: "country:Ecuador scientificname:Hyloxalus jacobuspetersi " ; Times: 2
+	Query: "dendropsophus ebraccatus" ; Times: 1
+	Query: "DENDROPSOPHUS BOKERMANNI" ; Times: 1
+	Query: "Sachatamia ilex" ; Times: 2
+	Query: "Teratohyla pulverata" ; Times: 1
+	Query: "dendropsophus bokermanni" ; Times: 1
+	Query: "country:Ecuador scientificname:Ceratophrys stolzmanni " ; Times: 1
+	Query: "CJ 1425" ; Times: 2
+	Query: "Hypsiboas cinerascens" ; Times: 2
+	Query: "Oreobates quixensis" ; Times: 1
+	Query: "Dendropsophus miyatai" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+	Query: "genus:Hyloxalus specificepithet:jacobuspetersi" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1300 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gastrotheca hastissue:1" ; Times: 1
+	Query: "Rhaebo haematiticus" ; Times: 1
+	Query: "Sachatamia ilex" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Teratohyla pulverata" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Dendropsophus parviceps" ; Times: 1
+
+
+End of report.
