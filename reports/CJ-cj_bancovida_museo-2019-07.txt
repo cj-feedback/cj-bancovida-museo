@@ -1,0 +1,48 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 178
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-25 ; Times: 2
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:hyloscirtus alytolylax " ; Times: 1
+	Query: "country:Ecuador scientificname:Hyloscirtus alytolylax " ; Times: 1
+	Query: "genus:Atelopus specificepithet:palmatus" ; Times: 1
+	Query: "scientificname:Sachatamia albomaculata " ; Times: 1
+	Query: "scientificname:Agalychnis spurrelli " ; Times: 1
+	Query: "scientificname:Hyloscirtus alytolylax " ; Times: 1
+	Query: "Pristimantis crucifer" ; Times: 2
+	Query: "gbifdatasetid:884de5ad-81d2-40e0-a454-171c2d246708" ; Times: 1
+	Query: "elachyhistus" ; Times: 1
+	Query: "country:Ecuador scientificname:Dendropsophus parviceps " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 985 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
