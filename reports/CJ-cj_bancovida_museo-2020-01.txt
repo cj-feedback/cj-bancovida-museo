@@ -1,0 +1,156 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 2649
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 106
+	Country: United Kingdom ; Times: 1
+	Country: Poland ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 5
+	Date: 2020-01-23 ; Times: 88
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-20 ; Times: 4
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Epipedobates boulengeri " ; Times: 1
+	Query: "specificepithet:ventrimaculatus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:yasuni genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:picturatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:toachi genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:flavopunctata genus:Rulyrana" ; Times: 1
+	Query: "specificepithet:bocagei genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:munozorum genus:Hyalinobatrachium" ; Times: 1
+	Query: "locality:playon de san francisco " ; Times: 1
+	Query: "specificepithet:litonedis genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:spurrelli genus:Agalychnis" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:ilex genus:Sachatamia" ; Times: 1
+	Query: "specificepithet:albomaculata genus:Sachatamia" ; Times: 1
+	Query: "country:Ecuador scientificname:Centrolene buckleyi " ; Times: 1
+	Query: "specificepithet:fugax genus:Colostethus" ; Times: 1
+	Query: "specificepithet:labiosus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Epipedobates" ; Times: 1
+	Query: "genus:Cruziohyla specificepithet:calcarifer" ; Times: 2
+	Query: "specificepithet:cinerascens genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:calcarifer genus:Cruziohyla" ; Times: 1
+	Query: "specificepithet:riobambae genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:parviceps genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:calcarulatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:siren genus:Nymphargus" ; Times: 1
+	Query: "specificepithet:geographicus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:boans genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:variabilis genus:Dendrobates" ; Times: 1
+	Query: "locality:Cotacachi " ; Times: 1
+	Query: "specificepithet:hulli genus:Hylomantis" ; Times: 1
+	Query: "specificepithet:zaparo genus:Allobates" ; Times: 1
+	Query: "country:Ecuador scientificname:Atelopus nanay " ; Times: 1
+	Query: "specificepithet:prosoblepon genus:Espadarana" ; Times: 1
+	Query: "specificepithet:punctatus genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:coloradorum genus:Engystomops" ; Times: 1
+	Query: "specificepithet:garbei genus:Scinax" ; Times: 1
+	Query: "specificepithet:hahneli genus:Ameerega" ; Times: 1
+	Query: "locality:chical " ; Times: 2
+	Query: "country:Ecuador scientificname:Atelopus palmatus " ; Times: 1
+	Query: "specificepithet:unistrigatus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:crenunguis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:longirostris genus:Craugastor" ; Times: 1
+	Query: "specificepithet:infraguttatus genus:Hyloxalus" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 1
+	Query: "specificepithet:quaquaversus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:heloderma genus:Centrolene" ; Times: 1
+	Query: "specificepithet:citriogaster genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:calcaratus genus:Hypsiboas" ; Times: 1
+	Query: "country:Ecuador scientificname:Hyloxalus pulchellus " ; Times: 1
+	Query: "Trachycephalus resinifictrix" ; Times: 2
+	Query: "specificepithet:nanay genus:Atelopus" ; Times: 1
+	Query: "specificepithet:phaeota genus:Smilisca" ; Times: 1
+	Query: "specificepithet:pulcher genus:Barycholos" ; Times: 1
+	Query: "locality:Parque Nacional  Podocarpus. " ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus" ; Times: 1
+	Query: "specificepithet:rosenbergi genus:Hypsiboas" ; Times: 1
+	Query: "locality:playon san francisco " ; Times: 1
+	Query: "specificepithet:sarayacuensis genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:lanthanites genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:tarsius genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:bifurcus genus:Dendropsophus" ; Times: 1
+	Query: "country:Ecuador scientificname:Pristimantis altamazonicus " ; Times: 1
+	Query: "specificepithet:tricolor genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:midas genus:Teratohyla" ; Times: 1
+	Query: "specificepithet:quixensis genus:Oreobates" ; Times: 1
+	Query: "specificepithet:crucifer genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:awa genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:buckleyi genus:Centrolene" ; Times: 1
+	Query: "specificepithet:griffithsi genus:Nymphargus" ; Times: 1
+	Query: "country:Ecuador scientificname:Espadarana prosoblepon " ; Times: 1
+	Query: "locality:Jimbura " ; Times: 2
+	Query: "specificepithet:rhodopeplus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:colomai genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:plumbea genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:croceoinguinis genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:aureoguttatum genus:Hyalinobatrachium" ; Times: 1
+	Query: "specificepithet:captivus genus:Dendrobates" ; Times: 1
+	Query: "specificepithet:pellucens genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:pulchellus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:bilinguis genus:Ameerega" ; Times: 1
+	Query: "specificepithet:pulverata genus:Teratohyla" ; Times: 1
+	Query: "specificepithet:kingsburyi genus:Allobates" ; Times: 1
+	Query: "specificepithet:galdi genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:petersi genus:Engystomops" ; Times: 1
+	Query: "specificepithet:phyllognathus genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:nexipus genus:Hyloxalus" ; Times: 1
+	Query: "specificepithet:spumarius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:condor genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:guacamayo genus:Osornophryne" ; Times: 1
+	Query: "specificepithet:palmeri genus:Hyloscirtus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Dendropsophus" ; Times: 1
+	Query: "locality:Chical " ; Times: 2
+	Query: "specificepithet:miyatai genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:vaillantii genus:Phyllomedusa" ; Times: 1
+	Query: "specificepithet:parvula genus:Ameerega" ; Times: 1
+	Query: "specificepithet:altamazonicus genus:Pristimantis" ; Times: 1
+	Query: "specificepithet:lanciformis genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:pseustes genus:Gastrotheca" ; Times: 1
+	Query: "specificepithet:walkeri genus:Pristimantis" ; Times: 1
+	Query: "Atelopus nanay" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "specificepithet:anthonyi genus:Epipedobates" ; Times: 1
+	Query: "specificepithet:lymani genus:Pristimantis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1584 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
