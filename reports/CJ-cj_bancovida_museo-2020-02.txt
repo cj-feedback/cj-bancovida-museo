@@ -1,0 +1,58 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-17 ; Times: 6
+	Date: 2020-02-16 ; Times: 3
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 2
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:Zamora Chinchipe genus:Allobates " ; Times: 1
+	Query: "Gastrotheca plumbea" ; Times: 2
+	Query: "locality:Cajanuma  " ; Times: 3
+	Query: "locality:Parque Nacional  Podocarpus. " ; Times: 2
+	Query: "stateprovince:Morona Santiago family:Craugastoridae " ; Times: 2
+	Query: "Atelopus palmatus" ; Times: 1
+	Query: "stateprovince:Morona Santiago class:Amphibia family:Craugastoridae " ; Times: 2
+	Query: "country:Ecuador scientificname:Pristimantis crenunguis " ; Times: 1
+	Query: "country:Ecuador scientificname:Atelopus balios " ; Times: 1
+	Query: "locality:Cajanuma " ; Times: 1
+	Query: "stateprovince:Zamora Chinchipe class:Amphibia " ; Times: 2
+	Query: "locality:Chical " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1023 download events in this period)
+Total number of records downloaded: 4387
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "centrolenidae" ; Times: 1
+
+
+End of report.
