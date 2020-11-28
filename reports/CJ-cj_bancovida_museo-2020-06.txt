@@ -1,0 +1,56 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 1254
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-25 ; Times: 3
+	Date: 2020-06-08 ; Times: 2
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-11 ; Times: 2
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Hyloxalus jacobuspetersi " ; Times: 1
+	Query: "Nymphargus grandisonae" ; Times: 2
+	Query: "country:Ecuador class:Amphibia year&gt;=2002 " ; Times: 1
+	Query: "country:Ecuador scientificname:Epipedobates darwinwallacei " ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinella marina " ; Times: 2
+	Query: "country:Ecuador scientificname:Leptodactylus petersii " ; Times: 2
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "country:Ecuador class:Amphibia year&gt;=2005 " ; Times: 1
+	Query: "country:Ecuador stateprovince:Esmeraldas genus:Hyloxalus " ; Times: 1
+	Query: "country:Ecuador class:Amphibia year&gt;=2010 " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 474 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ecuador ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Nymphargus grandisonae" ; Times: 1
+	Query: "Pristimantis w-nigrum" ; Times: 1
+
+
+End of report.
