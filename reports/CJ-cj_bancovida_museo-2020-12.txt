@@ -1,0 +1,65 @@
+Report for Institution Code CJ, Resource cj_bancovida_museo
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 3
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-05 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Espadarana prosoblepon" ; Times: 3
+	Query: "country:Ecuador scientificname:Pristimantis labiosus " ; Times: 1
+	Query: "genus:Barycholos" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "country:Ecuador scientificname:Teratohyla pulverata " ; Times: 1
+	Query: "gluesenkamp" ; Times: 1
+	Query: "Caecilia tentaculata" ; Times: 1
+	Query: "family:hemiphractidae hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Gastrotheca testudinea " ; Times: 2
+	Query: "agalychnis spurrelli" ; Times: 1
+	Query: "Rhinella alata" ; Times: 1
+	Query: "country:Ecuador scientificname:Centrolene buckleyi " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 705 download events in this period)
+Total number of records downloaded: 78
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "Scinax ruber" ; Times: 1
+	Query: "Rhinella alata" ; Times: 1
+
+
+End of report.
